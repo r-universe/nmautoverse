@@ -8,3 +8,6 @@
 [submodule "NMsim"]
 	path = NMsim
 	url = https://github.com/nmautoverse/nmsim
+[submodule "tracee"]
+	path = tracee
+	url = https://github.com/nmautoverse/tracee
